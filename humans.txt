@@ -1,0 +1,15 @@
+/* Bienvenidos/as a mi portafolio online - http://yorsh033.xtrweb.com */
+
+/* TEAM */
+	Creator: Jorge Hernández
+	Contact: yorsh033 [at] gmail.com
+	Twitter:@yorsh033
+	From: Morazan, El Salvador
+
+/* SITE */
+
+	Last update: 2014/08/01
+	Languaje: Español
+	Standars: HTML5, css3, JavaScript
+	Components: JQuery, PrefixFree, Normalize
+	Software: SublimeText 2, Gimp 2
